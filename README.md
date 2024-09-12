@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Tien
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Computer Science at IUH
 - 📫 How to reach me: thanhtiencontact@gmail.com
